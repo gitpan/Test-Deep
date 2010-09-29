@@ -43,7 +43,6 @@ lib/Test/Deep/Stack.pm
 lib/Test/Deep/String.pm
 Makefile.PL
 MANIFEST			This list of files
-META.yml
 README
 t/all.t
 t/any.t
@@ -84,3 +83,4 @@ t/shallow.t
 t/std.pm
 t/string.t
 TODO
+META.yml                                 Module meta-data (added by MakeMaker)
