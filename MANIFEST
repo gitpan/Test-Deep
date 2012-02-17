@@ -1,6 +1,5 @@
 CHANGES
 lib/Test/Deep.pm
-lib/Test/Deep.pod
 lib/Test/Deep/All.pm
 lib/Test/Deep/Any.pm
 lib/Test/Deep/Array.pm
@@ -83,4 +82,5 @@ t/shallow.t
 t/std.pm
 t/string.t
 TODO
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
